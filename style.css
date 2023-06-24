@@ -1,0 +1,47 @@
+body {
+    background-image: linear-gradient(to right,blue,blue,purple,purple);
+    color: #0062ff;
+}
+
+a {
+    color: #0062ff
+}
+
+div {
+    color: blueviolet;
+}
+
+div {
+    background-color: aqua;
+    border-radius: 100px;
+}
+
+#idk{
+    background-color: bisque;
+}
+#umm_somthing{
+background-color: chartreuse;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: purple;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(74, 34, 205);;
+    text-align: center;
+    padding: 14px 95px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:  #0062ff
+  }
